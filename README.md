@@ -12,8 +12,8 @@ The Dashboards in this repository can also be found on my Tableau page : [Here](
 All the data files (.cvs, .xlsx) are also uploaded in the **respective** folder.
 These datasets can also be found on their kaggle pages : <br>
 
-- [Earthquake 1900-2014](https://www.kaggle.com/datasets/usamabuttar/significant-earthquakes)<br>
-- [Airbnb NYC 2019](https://www.kaggle.com/datasets/chadra/ab-nyc-2019)<br>
+- [Earthquake 1900-2014 Data](https://www.kaggle.com/datasets/usamabuttar/significant-earthquakes)<br>
+- [Airbnb NYC 2019 Data](https://www.kaggle.com/datasets/chadra/ab-nyc-2019)<br>
 --------------------------
 ## Preview :
 -Earthquake Analysis Dashboard\
