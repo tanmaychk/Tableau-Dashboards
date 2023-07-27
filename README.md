@@ -1,5 +1,5 @@
 # Tableau-Dashboards
-This is a repository which contains all my Tableau Dashboards
+This is a repository which contains all my Tableau Dashboards.\
 The Dashboards in this repository can also be found on my Tableau page : [Here](https://public.tableau.com/app/profile/tanmaychk)
 ## Index :
     
@@ -14,4 +14,5 @@ These datasets can also be found on their kaggle pages : <br>
 - [Earthquake Analysis 1900-2014](https://www.kaggle.com/datasets/usamabuttar/significant-earthquakes)<br>
 --------------------------
 ## Preview :
-![preview]()
+-Earthwuake Analysis\
+    ![preview](Earthquake Analysis Dashboard/Dashboard.PNG)
