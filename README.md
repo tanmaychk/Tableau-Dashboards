@@ -14,5 +14,5 @@ These datasets can also be found on their kaggle pages : <br>
 - [Earthquake Analysis 1900-2014](https://www.kaggle.com/datasets/usamabuttar/significant-earthquakes)<br>
 --------------------------
 ## Preview :
--Earthwuake Analysis\
-    ![preview](Earthquake Analysis Dashboard/Dashboard.PNG)
+-Earthquake Analysis Dashboard\
+    ![preview](https://github.com/tanmaychk/Tableau-Dashboards/blob/main/Earthquake%20Analysis%20Dashboard/Dashboard.PNG)
