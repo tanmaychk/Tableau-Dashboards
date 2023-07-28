@@ -6,6 +6,7 @@ The Dashboards in this repository can also be found on my Tableau page : [Here](
 1. [Earthquake Analysis 1900-2014](https://public.tableau.com/app/profile/tanmaychk/viz/EarthquakeAnalysis1900-2014_16904438040080/Dashboard1)
 2. [Airbnb NYC Analysis 2019](https://public.tableau.com/app/profile/tanmaychk/viz/Airbnbnyc2011-2019/Dashboard1)
 3. [London Bikes Analysis 2019](https://public.tableau.com/app/profile/tanmaychk/viz/LondonBikeSharing_16905666082730/Dashboard1?publish=yes)
+4. [DataViz IIM Analysis Comp](https://public.tableau.com/app/profile/tanmaychk/viz/DataVizCompetition_16905719267400/Dashboard1)
 
 -------------------------
 ## Data :
